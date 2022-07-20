@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo "passtest version"
-exit 0
+echo "failtest version"
+exit 1
